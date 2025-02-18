@@ -1,7 +1,7 @@
 {
-  "title": "НОВЫЕ НАБОРЫ",
-  "description": "Доступны новые наборы!",
+  "title": "НАЗВАНИЕ",
+  "description": "ОПИСАНИЕ",
   "image_url": "https://yourcdn.com/banner.png",
-  "button_text": "Подробнее",
-  "button_url": "https://yourgame.com/reward"
+  "button_text": "Кнопка",
+  "button_url": "https://standon.ru"
 }
