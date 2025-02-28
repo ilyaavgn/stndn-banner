@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Обновление 0.25.0",
+        "image": "https://example.com/update_img.jpg",
+        "description": "Добавлены новые скины и баланс оружия.",
+        "link": "https://example.com/update_info"
+    },
+    {
+        "title": "Технические работы",
+        "image": "https://example.com/maintenance.jpg",
+        "description": "Серверы будут недоступны 28 февраля с 3:00 до 6:00 UTC.",
+        "link": "https://example.com/status"
+    }
+]
