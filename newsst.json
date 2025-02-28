@@ -1,14 +1,14 @@
 [
     {
-        "title": "Обновление 0.25.0",
-        "image": "https://example.com/update_img.jpg",
-        "description": "Добавлены новые скины и баланс оружия.",
-        "link": "https://example.com/update_info"
+        "title": "Обновление 0.3.0 уже доступно!",
+        "image": "https://ibb.co/Xx8dGCND",
+        "description": "Скачивай на официальном сайте",
+        "link": "https://standon.ru/downloads"
     },
     {
         "title": "Технические работы",
-        "image": "https://example.com/maintenance.jpg",
-        "description": "Серверы будут недоступны 28 февраля с 3:00 до 6:00 UTC.",
-        "link": "https://example.com/status"
+        "image": "https://ibb.co/WWFj1pPK",
+        "description": "Серверы будут недоступны",
+        "link": ""
     }
 ]
