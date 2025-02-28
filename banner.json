@@ -1,7 +1,14 @@
-{
-  "title": "НАЗВАНИЕ",
-  "description": "ОПИСАНИЕ",
-  "image_url": "https://ibb.co/p6SP3QcK",
-  "button_text": "Кнопка",
-  "button_url": "https://standon.ru"
-}
+[
+    {
+        "title": "Обновление 0.3.0 уже доступно!",
+        "image": "https://i.ibb.co/VYmhkqrx/Frame-12.png",
+        "description": "Скачивай на официальном сайте",
+        "link": "https://standon.ru/downloads"
+    },
+    {
+        "title": "Технические работы",
+        "image": "https://ibb.co/WWFj1pPK",
+        "description": "Серверы будут недоступны",
+        "link": ""
+    }
+]
